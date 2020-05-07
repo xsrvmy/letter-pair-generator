@@ -1,0 +1,17 @@
+{
+    "exclude": [
+        "eslint.*",
+        "jest.*",
+        "@testing-library.*",
+        "@typescript-eslint.*",
+        "react-dev-utils",
+        "babel.*",
+        "@babel/.*",
+        "postcss.*",
+        "@types/.*",
+        "webpack.*",
+        "@svgr/webpack",
+        ".*webpack.*plugin.*",
+        "resolve-url-loader"
+    ]
+}
